@@ -4,7 +4,7 @@ author: hakim
 date: 2023-02-01 14:10:00 +0700
 categories: [Blogging, Tutorial]
 tags: [menulis, kreatif]
-render_with_liquid: false
+render_with_liquid: true
 ---
 
 Sadar atau nggak, kalo membaca atau menonton sesuatu yang diulang, biasanya dapet pencerahan baru.
