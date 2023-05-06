@@ -20,8 +20,6 @@ Alih-alih takut sama orang yang belajar banyak jurus tapi melatihnya hanya sekal
 
 Saya ingat, kalo saya pernah menonton video Raditya Dika yang ini:
 
-[https://www.youtube.com/embed/GjkmsLlMeA8](https://www.youtube.com/embed/GjkmsLlMeA8)
-
 {% include embed/youtube.html id='GjkmsLlMeA8' %}
 
 Tiba-tiba hari ini video tersebut muncul lagi di *timeline feed* Youtube saya. Saya tonton lagi, dan sadar kalo ternyata materinya sangat berkelas. Bintang 5/5!
@@ -33,8 +31,6 @@ Eniwe, di video itu berisi cuplikan Workshop yang diadakan oleh Better dengan na
 Raditya Dika membahas tips-tips menulis di video yang berdurasi sekitar 22 menitan tersebut.
 
 Pantesan saya merasa seneng banget ketemu lagi sama video ini. Ternyata saya memang lagi membutuhkan materi dasar ini. Saya mau membagikan intisari video tersebut ke dalam tulisan ini. Yuk, lanjut baca.
-
-![Photo by Tyler Nix]({{ site.baseurl }}/assets/img/menulis-unsplash.jpeg){: width="500" height="100%" }
 
 ![Photo by Tyler Nix](/assets/img/menulis-unsplash.jpeg){: width="500" height="100%" }
 
