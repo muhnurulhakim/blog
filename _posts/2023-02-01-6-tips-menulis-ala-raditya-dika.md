@@ -4,7 +4,6 @@ author: hakim
 date: 2023-02-01 14:10:00 +0700
 categories: [Blogging, Tutorial]
 tags: [menulis, kreatif]
-toc: true
 render_with_liquid: true
 ---
 
